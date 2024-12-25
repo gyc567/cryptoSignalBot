@@ -1,0 +1,20 @@
+export default {
+    brand: 'CryptoSignals Pro',
+    nav_features: '功能',
+    nav_how: '運作原理',
+    nav_pricing: '價格',
+    nav_faq: '常見問題',
+    get_started: '立即開始',
+    hero_title: '專業的加密貨幣交易訊號',
+    hero_subtitle: '利用先進的演算法和即時市場數據，為您提供準確的交易訊號',
+    crypto_select_placeholder: '選擇加密貨幣',
+    custom_input_placeholder: '輸入代幣符號 (例如: BTCUSDT)',
+    calculate_signal: '生成交易訊號',
+    entry_point: '入場點位',
+    stop_loss: '止損點位',
+    target_price: '目標點位',
+    features_title: '核心功能',
+    pricing_title: '價格方案',
+    contact_title: '聯絡方式',
+    footer_copyright: '© 2024 CryptoSignals Pro. All rights reserved. Created by Eric'
+};

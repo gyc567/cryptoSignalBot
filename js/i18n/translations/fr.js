@@ -1,0 +1,20 @@
+export default {
+    brand: 'CryptoSignals Pro',
+    nav_features: 'Fonctionnalités',
+    nav_how: 'Comment ça marche',
+    nav_pricing: 'Tarifs',
+    nav_faq: 'FAQ',
+    get_started: 'Commencer',
+    hero_title: 'Signaux Professionnels de Trading Crypto',
+    hero_subtitle: 'Utilisez des algorithmes avancés et des données de marché en temps réel pour des signaux précis',
+    crypto_select_placeholder: 'Sélectionner une Cryptomonnaie',
+    custom_input_placeholder: 'Entrez le symbole (ex: BTCUSDT)',
+    calculate_signal: 'Générer le Signal',
+    entry_point: "Point d'Entrée",
+    stop_loss: 'Stop Loss',
+    target_price: 'Prix Cible',
+    features_title: 'Fonctionnalités Principales',
+    pricing_title: 'Tarification',
+    contact_title: 'Contact',
+    footer_copyright: '© 2024 CryptoSignals Pro. Tous droits réservés. Créé par Eric'
+};

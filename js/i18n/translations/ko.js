@@ -1,0 +1,20 @@
+export default {
+    brand: 'CryptoSignals Pro',
+    nav_features: '기능',
+    nav_how: '이용 방법',
+    nav_pricing: '가격',
+    nav_faq: '자주 묻는 질문',
+    get_started: '시작하기',
+    hero_title: '전문적인 암호화폐 거래 신호',
+    hero_subtitle: '고급 알고리즘과 실시간 시장 데이터를 활용한 정확한 거래 신호',
+    crypto_select_placeholder: '암호화폐 선택',
+    custom_input_placeholder: '심볼 입력 (예: BTCUSDT)',
+    calculate_signal: '신호 생성',
+    entry_point: '진입 지점',
+    stop_loss: '손절가',
+    target_price: '목표가',
+    features_title: '주요 기능',
+    pricing_title: '가격 정책',
+    contact_title: '문의하기',
+    footer_copyright: '© 2024 CryptoSignals Pro. All rights reserved. Created by Eric'
+};
